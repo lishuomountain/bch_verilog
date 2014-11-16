@@ -1,5 +1,5 @@
 Verilog BCH encoder/decoder.
-
+# modified by lishuo
 This is a Verilog based BCH encoder and decoder for single bit, dual bit, and
 3 or more bit error correction. The equations and layout for the encoder
 and decoders is taken from "The design of a vhdl based synthesis tool for bch
